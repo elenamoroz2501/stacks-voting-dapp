@@ -24,3 +24,4 @@
 ## Running Locally
 
 1. Перейти в папку fron
+2026-02-14 21:12:39 - adjusted logic
