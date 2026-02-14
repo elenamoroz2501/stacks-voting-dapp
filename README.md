@@ -23,4 +23,4 @@
 
 ## Running Locally
 
-1. Перейти в папку front
+1. Перейти в папку fron
