@@ -23,4 +23,4 @@
 
 ## Running Locally
 
-1. Перейти в папку frontend:
+1. Перейти в папку frontend
