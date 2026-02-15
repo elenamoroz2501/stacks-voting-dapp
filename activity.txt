@@ -36,3 +36,4 @@
 2026-02-15 17:17:16 - updated UI
 2026-02-15 17:17:27 - updated UI
 2026-02-15 17:17:38 - updated UI
+2026-02-15 17:17:53 - adjusted logic
