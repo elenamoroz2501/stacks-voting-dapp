@@ -280,3 +280,4 @@
 2026-02-25 18:52:23 - added test case
 2026-02-25 18:52:43 - updated UI
 2026-02-26 10:56:34 - updated UI
+2026-02-26 10:56:44 - adjusted logic
