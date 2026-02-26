@@ -291,3 +291,4 @@
 2026-02-26 11:00:13 - added test case
 2026-02-26 11:00:29 - added test case
 2026-02-26 11:02:16 - added test case
+2026-02-26 18:50:49 - adjusted logic
